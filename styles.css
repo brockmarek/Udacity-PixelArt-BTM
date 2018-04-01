@@ -38,7 +38,3 @@ td {
 input[type=number] {
     width: 6em;
 }
-
-.clicked {
-    background: red;
-}
